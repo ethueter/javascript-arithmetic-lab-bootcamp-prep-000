@@ -27,7 +27,7 @@ function makeInt(n) {
   return n;
 }
 
-function makeInt(0x2328) {
+function makeInt(Ox2328) {
   parseInt('0.2328');
   return 0x2328;
 }

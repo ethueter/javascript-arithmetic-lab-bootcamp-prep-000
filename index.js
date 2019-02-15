@@ -23,8 +23,8 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  parseInt(n, 16);
-  return n;
+  var confused = parseInt(n, 16);
+  
 }
 
 function preserveDecimal(n) {
